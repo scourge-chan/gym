@@ -1,3 +1,5 @@
+## hi i forked this so i could change render functionality in some of the environments to work in ipython
+
 ## Gym
 
 Gym is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API. Since its release, Gym's API has become the field standard for doing this.
